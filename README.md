@@ -52,16 +52,16 @@ After scraping of the data, it was cleaned up to make it usable for the model. F
 ### EDA:
 Different techniques used for data exploration. Few highlights are below:
 
-* Correlation Heatmap on the most useful features detemined:
+* Correlation Heatmap on the most useful features detemined:\
 ![HEAMAP!](heatmap.png)
 
-* Job Postings according to State:
+* Job Postings according to State:\
 ![STATE!](state.png)
 
-* Job Postings according to Sector:
+* Job Postings according to Sector:\
 ![SECTOR!](sector.png)
 
-* Pivot Table according to Job Title and Seniority:
+* Pivot Table according to Job Title and Seniority:\
 ![PIVOT!](pivot.png)
 
 
