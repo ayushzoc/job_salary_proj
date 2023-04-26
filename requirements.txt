@@ -7,3 +7,5 @@ seaborn
 nltk
 wordcloud
 statsmodels
+sklearn
+flask
