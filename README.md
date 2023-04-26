@@ -41,16 +41,28 @@ After scraping of the data, it was cleaned up to make it usable for the model. F
 * Added a column for if the job was at the company's headquarters
 * Transformed founded date into age of company
 * Made columns for if different skills were listed in the job description:
-+ Python
-+ R
-+ Excel
-+ AWS
-+ Spark
+    + Python
+    + R
+    + Excel
+    + AWS
+    + Spark
 * Column for simplified Job Title and Seniority
 * Column for description length
 
 ### EDA:
 Different techniques used for data exploration. Few highlights are below:
+
+* Correlation Heatmap on the most useful features detemined:
+![HEAMAP!](heatmap.png)
+
+* Job Postings according to State:
+![STATE!](state.png)
+
+* Job Postings according to Sector:
+![SECTOR!](sector.png)
+
+* Pivot Table according to Job Title and Seniority:
+![PIVOT!](pivot.png)
 
 
 
