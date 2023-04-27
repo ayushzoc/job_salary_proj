@@ -14,7 +14,7 @@
 **Packages:** Numpy, Pandas, Scikit-learn, Matplotlib, Seaborn, Flask, Selenium, JSON, Pickle\
 **Installing for webframe requirements:** pip install -r requirements.txt\
 **Scaper Article:** https://medium.com/@benjaminrohan010/scraping-glassdoor-using-selenium-and-python-2022-bd0065775aec \
-**Flask Productionize Article:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2 \
+**Flask Productionize Article:** https://towardsdatascience.com/productionize-a-machine-learning-model-with-flask-and-heroku-8201260503d2
 
 ### Web Scraping:
 ---
